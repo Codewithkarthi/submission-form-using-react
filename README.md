@@ -1,6 +1,6 @@
 **OUTPUT:**
         
-![Uploading image.png…]()
+![image](https://github.com/Codewithkarthi/submission-form-using-react/assets/148317926/c12b544f-6c45-4698-a465-d011f77f31d7)
 
 
 # Getting Started with Create React App
