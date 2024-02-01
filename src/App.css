@@ -1,0 +1,41 @@
+/* App.css */
+
+body { 
+	background-color: azure; 
+	color:#fff; 
+} 
+
+h1 { 
+	text-align: center; 
+	color: black; 
+} 
+
+fieldset { 
+	margin-left: 20%; 
+	margin-right: 20%; 
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); 
+} 
+
+input { 
+	padding: .3rem; 
+	border: 1px solid #ccc; 
+	border-radius: 4px; 
+	margin: 10px; 
+} 
+
+label { 
+	margin: 10px; 
+} 
+
+button { 
+	padding: .3rem; 
+	font-size: 15px; 
+	background-color: rgb(9, 17, 6); 
+	border: 4px solid #ccc; 
+	color: #ccc; 
+	padding: 10px; 
+	border-radius: 8px; 
+	margin: 10px; 
+	cursor: pointer; 
+}
